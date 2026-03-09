@@ -1,5 +1,29 @@
-# 💫 About Me:
-Hi, I'm Kunal Chakraborty 👋<br><br>MCA student | Aspiring Software Engineer | Learning Japanese<br><br>---<br><br>About Me<br><br>- I am currently pursuing **Master of Computer Applications (MCA)** from **Burdwan University, Kolkata**.<br>- I am interested in **software development**, especially **backend and full-stack development**.<br>- I enjoy learning about **system design and machine learning**.<br>- I am currently improving my skills in **Java, Python, JavaScript, and backend development**.<br>- I am also learning **Japanese** and currently preparing for **JLPT N3**.<br>- I am based in **Kolkata, West Bengal, India**.<br><br>---<br>こんにちは、クナル・チャクラボルティです。  <br>インドのコルカタに住んでいます。  <br>現在、大学でMCAを勉強しています。  <br>ソフトウェアエンジニアになることが目標です。  <br>日本語も勉強していて、JLPT N3を目指しています。  <br>よろしくお願いします。
+# Hi, I'm Kunal Chakraborty 👋
+
+MCA Student | Aspiring Software Engineer | Learning Japanese
+
+---
+
+## About Me
+
+- Currently pursuing **Master of Computer Applications (MCA)** from **Brainware University, Kolkata**
+- Interested in **software development**, especially **backend and full-stack development**
+- Enjoy learning about **system design and machine learning**
+- Improving skills in **Java, Python, JavaScript, and backend development**
+- Learning **Japanese** and preparing for **JLPT N3**
+- Based in **Kolkata, West Bengal, India**
+- Open to contributing to **open-source projects** and collaborating with developers
+
+---
+
+## 日本語で自己紹介
+
+こんにちは、クナル・チャクラボルティです。  
+インドのコルカタに住んでいます。  
+現在、大学でMCAを勉強しています。  
+ソフトウェアエンジニアになることが目標です。  
+日本語も勉強していて、JLPT N3を目指しています。  
+よろしくお願いします。よろしくお願いします。
 
 
 ## 🌐 Socials:
