@@ -13,7 +13,7 @@ MCA Student | Aspiring Software Engineer | Learning Japanese
 - Learning **Japanese** and preparing for **JLPT N3**
 - Based in **Kolkata, West Bengal, India**
 - Open to contributing to **open-source projects** and collaborating with developers
-
+- Portfolio_Link: **https://kunal-dev-portfolio-six.vercel.app**
 ---
 
 ## 日本語で自己紹介
