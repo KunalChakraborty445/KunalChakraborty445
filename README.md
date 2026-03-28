@@ -1,6 +1,6 @@
 # Hi, I'm Kunal Chakraborty 👋
 
-MCA Student | Aspiring Software Engineer | Learning Japanese
+MCA Student | Software Engineer | Learning Japanese
 
 ---
 
